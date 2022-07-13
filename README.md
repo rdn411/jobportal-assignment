@@ -1,1 +1,1 @@
-# jobportal-assignment
+# job-portal-app
